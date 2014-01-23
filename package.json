@@ -1,0 +1,7 @@
+{
+  "name": "nw-demo",
+  "main": "index.html",
+  "devDependencies": {
+    "shelljs": "~0.2.6"
+  }
+}
